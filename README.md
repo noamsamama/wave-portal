@@ -1,6 +1,6 @@
 # 👋 Wave Portal
 
-[![CI](https://github.com/NoamSam/wave-portal/actions/workflows/ci.yml/badge.svg)](https://github.com/NoamSam/wave-portal/actions/workflows/ci.yml)
+[![CI](https://github.com/noamsamama/wave-portal/actions/workflows/ci.yml/badge.svg)](https://github.com/noamsamama/wave-portal/actions/workflows/ci.yml)
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.26-363636?logo=solidity)
 ![Hardhat](https://img.shields.io/badge/Hardhat-2.22-fff100)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
@@ -52,7 +52,7 @@ Point MetaMask at the local network (`http://127.0.0.1:8545`, chain id `31337`),
 
 ## Why this project
 
-Built as a hands-on introduction to Ethereum fundamentals (gas, signatures, events, testnets) before moving on to [tokenized bond DvP settlement](https://github.com/NoamSam/tokenized-bond-settlement-lab).
+Built as a hands-on introduction to Ethereum fundamentals (gas, signatures, events, testnets) before moving on to [tokenized bond DvP settlement](https://github.com/noamsamama/tokenized-bond-settlement-lab).
 
 ## License
 
